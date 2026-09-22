@@ -13,3 +13,5 @@
 ▪ Kết quả thực hiện; thực hiện được tình huống 2 (Mã độc (EICAR),tinh huong 2, 
 
 link Youtube: 
+
+lí do nộp trễ sau 15:01:33 (uống nước!) -> nộp thiếu
