@@ -7,10 +7,10 @@
 ▪ Tên bài Lab; Lab3 các mối đe đọa
 
 
-▪ Nội dung đã thực hiện; Tình huống 2,3
+▪ Nội dung đã thực hiện; Tình huống 2,3,4,5,6,7
 
 
-▪ Kết quả thực hiện; thực hiện được tình huống 2 (Mã độc (EICAR),tinh huong 2, 
+▪ Kết quả thực hiện; thực hiện được 2 (Mã độc (EICAR), 3, 4 5 6 7
 
 link Youtube: 
 
