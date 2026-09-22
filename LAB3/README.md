@@ -4,7 +4,7 @@
 ▪ Mã số sinh viên; 1150080136 
 
 
-▪ Tên bài Lab; Lab1 Bắt gói tin Telnet - SSH
+▪ Tên bài Lab; Lab3 các mối đe đọa
 
 
 ▪ Nội dung đã thực hiện; Tình huống 2,3
