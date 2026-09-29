@@ -12,6 +12,6 @@
 
 ▪ Kết quả thực hiện; thực hiện được 2 (Mã độc (EICAR), 3, 4 5 6 7
 
-link Youtube: 
+link Youtube: https://youtu.be/0rMj_OSihRw
 
 lí do nộp trễ sau 15:01:33 (uống nước!) -> nộp thiếu
