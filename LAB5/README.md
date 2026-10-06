@@ -8,9 +8,9 @@
 
 
 
-▪ Nội dung đã thực hiện; tình huống 1
+▪ Nội dung đã thực hiện; tình huống 1,2
 
 
 ▪ Kết quả thực hiện; 
-link Youtube: 
+link Youtube: https://youtu.be/JHLRg55fo94
 
