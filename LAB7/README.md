@@ -13,5 +13,5 @@ TRÊN MÔ HÌNH pfSense + WEB PROXY
 
 
 ▪ Kết quả thực hiện;
-link Youtube:
+link Youtube: https://youtu.be/ppkS-hG42V0
 
