@@ -25,5 +25,5 @@ TRONG MÔI TRƯỜNG pfSense CÔ LẬP
 
 
 ▪ Kết quả thực hiện;
-link Youtube: 
+link Youtube: https://youtu.be/ek37OyDmu98
 
